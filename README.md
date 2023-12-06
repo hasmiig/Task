@@ -1,5 +1,3 @@
-# First
-Login and logout with pre-built templates
+Registration and authentication
 
-# Second
-Sign up
+Setting tasks
